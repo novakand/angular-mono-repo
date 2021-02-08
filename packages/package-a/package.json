@@ -1,0 +1,16 @@
+{
+  "name": "@novakand/package-a",
+  "version": "0.1.0",
+  "main": "index.js",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:novakand/lerna-release-workflow.git",
+    "directory": "packages/package-a"
+  },
+  "scripts": {
+    "prepublish": "yarn build",
+    "build": "echo \"Build me!\"",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}
