@@ -1,6 +1,6 @@
 {
   "name": "@novakand/package-b",
-  "version": "0.2.5",
+  "version": "0.2.6",
   "main": "index.js",
   "license": "MIT",
   "repository": {
@@ -14,7 +14,7 @@
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "dependencies": {
-    "@novakand/package-a": "^0.3.2"
+    "@novakand/package-a": "^0.3.3"
   },
   "gitHead": "eee0f4c3290b2f3c3ff4a3f8b2d1e8beaf5a69b0"
 }
