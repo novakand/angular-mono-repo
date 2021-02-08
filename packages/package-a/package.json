@@ -12,5 +12,6 @@
     "prepublish": "yarn build",
     "build": "echo \"Build me!\"",
     "test": "echo \"Error: no test specified\" && exit 1"
-  }
+  },
+  "gitHead": "eee0f4c3290b2f3c3ff4a3f8b2d1e8beaf5a69b0"
 }

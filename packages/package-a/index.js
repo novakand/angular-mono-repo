@@ -4,6 +4,6 @@ module.exports = packageA;
 
 function packageA() {
 
-    return null;
+    return undefined;
     // TODO
 }
