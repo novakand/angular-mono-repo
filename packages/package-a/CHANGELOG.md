@@ -3,6 +3,17 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+# [0.3.0](https://github.com/novakand/lerna-release-workflow/compare/@novakand/package-a@0.2.2...@novakand/package-a@0.3.0) (2021-02-08)
+
+
+### Features
+
+* **ddd:** ddd ([c7c0397](https://github.com/novakand/lerna-release-workflow/commit/c7c0397bb9408e0c3619fbcb11c74fc484e183d2))
+
+
+
+
+
 ## [0.2.2](https://github.com/novakand/lerna-release-workflow/compare/@novakand/package-a@0.2.1...@novakand/package-a@0.2.2) (2021-02-08)
 
 **Note:** Version bump only for package @novakand/package-a
