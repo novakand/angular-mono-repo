@@ -3,6 +3,14 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+## [0.2.1](https://github.com/novakand/lerna-release-workflow/compare/@novakand/package-a@0.2.0...@novakand/package-a@0.2.1) (2021-02-08)
+
+**Note:** Version bump only for package @novakand/package-a
+
+
+
+
+
 # 0.2.0 (2021-02-08)
 
 
