@@ -5,7 +5,8 @@
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "git@github.com:novakand/lerna-release-workflow.git",
+    //"url": "git@github.com:novakand/lerna-release-workflow.git",
+    "url": "ssh://git@github.com:novakand/lerna-release-workflow.git",
     "directory": "packages/package-b"
   },
   "scripts": {
@@ -19,5 +20,5 @@
   "dependencies": {
     "@novakand/package-a": "^0.3.6"
   },
-  "gitHead": "c952d9766f52693575f6c595110bb081eeecbf90"
+  "gitHead": "bce2ea49e2ad161c18e79315862bf17e65c4895c"
 }
