@@ -3,6 +3,17 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+# [0.5.0](https://github.com/novakand/lerna-release-workflow/compare/@novakand/package-b@0.4.0...@novakand/package-b@0.5.0) (2021-02-09)
+
+
+### Features
+
+* **fff:** fff ([2077ca7](https://github.com/novakand/lerna-release-workflow/commit/2077ca71691b93661c07787e79346823837a780b))
+
+
+
+
+
 # [0.4.0](https://github.com/novakand/angular-mono-repo/compare/@novakand/package-b@0.3.0...@novakand/package-b@0.4.0) (2021-02-09)
 
 
