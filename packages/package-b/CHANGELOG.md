@@ -3,6 +3,17 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+# [0.4.0](https://github.com/novakand/angular-mono-repo/compare/@novakand/package-b@0.3.0...@novakand/package-b@0.4.0) (2021-02-09)
+
+
+### Features
+
+* ddd ([dcebaba](https://github.com/novakand/angular-mono-repo/commit/dcebaba57d767446a53f0481854c2e5ad02ce3ef))
+
+
+
+
+
 # [0.3.0](https://github.com/novakand/lerna-release-workflow/compare/@novakand/package-b@0.2.12...@novakand/package-b@0.3.0) (2021-02-09)
 
 
