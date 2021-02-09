@@ -1,10 +1,10 @@
 {
-  "name": "lerna-release-workflow",
+  "name": "angular-mono-repo",
   "private": true,
   "author": "",
   "repository": {
     "type": "git",
-    "url": "https://github.com/novakand/lerna-release-workflow.git"
+    "url": "https://github.com/novakand/angular-mono-repo.git"
   },
   "workspaces": [
     "packages/*"

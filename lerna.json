@@ -9,7 +9,6 @@
     },
     "version": {
       "allowBranch": "master",
-      "verifyAccess": false,
       "ignoreChanges": ["**/*.md"]
     }
   }

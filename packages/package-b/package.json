@@ -5,7 +5,7 @@
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "https://github.com/novakand/lerna-release-workflow.git",
+    "url": "https://github.com/novakand/angular-mono-repo.git",
     "directory": "packages/package-b"
   },
   "scripts": {
