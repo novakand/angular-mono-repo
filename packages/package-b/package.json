@@ -1,6 +1,6 @@
 {
   "name": "@novakand/package-b",
-  "version": "0.2.9",
+  "version": "0.2.10",
   "main": "index.js",
   "license": "MIT",
   "repository": {
@@ -17,7 +17,7 @@
     "registry": "https://npm.pkg.github.com/"
   },
   "dependencies": {
-    "@novakand/package-a": "^0.3.6"
+    "@novakand/package-a": "^0.3.7"
   },
   "gitHead": "bce2ea49e2ad161c18e79315862bf17e65c4895c"
 }
