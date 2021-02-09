@@ -1,20 +1,16 @@
 {
   "name": "@novakand/package-a",
-  "version": "0.3.9",
+  "version": "0.3.7",
   "main": "index.js",
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "ssh://git@github.com:novakand/lerna-release-workflow.git",
     "directory": "packages/package-a"
-  },
-  "publishConfig": {
-    "registry": "https://npm.pkg.github.com/"
   },
   "scripts": {
     "prepublish": "yarn build",
     "build": "echo \"Build me!\"",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "gitHead": "546e3445670d37f14e319eac69a1989e7c01e1e1"
+  "gitHead": "e9af779dcf50baa42dfd7ecef62d6975f58a5b77"
 }

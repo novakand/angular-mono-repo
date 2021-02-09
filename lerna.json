@@ -5,8 +5,7 @@
   "version": "independent",
   "command": {
     "publish": {
-      "registry": "https://npm.pkg.github.com/",
-      "npmClient": "npm"
+      "registry": "https://npm.pkg.github.com"
     },
     "version": {
       "allowBranch": "master",
