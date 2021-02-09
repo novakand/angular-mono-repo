@@ -16,5 +16,5 @@
     "build": "echo \"Build me!\"",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "gitHead": "e5691fd6efb56ec6b3ec65701e84c8f835089346"
+  "gitHead": "220031f55c704a082ba4d7f744bf3b58aeb144a1"
 }
