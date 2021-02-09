@@ -5,6 +5,7 @@
   "license": "MIT",
   "repository": {
     "type": "git",
+    "url": "https://github.com/novakand/lerna-release-workflow.git",
     "directory": "packages/package-b"
   },
   "scripts": {
