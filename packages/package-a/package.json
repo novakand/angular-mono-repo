@@ -8,10 +8,13 @@
     "url": "git@github.com:novakand/lerna-release-workflow.git",
     "directory": "packages/package-a"
   },
+  "publishConfig": {
+    "registry": "https://npm.pkg.github.com/"
+  },
   "scripts": {
     "prepublish": "yarn build",
     "build": "echo \"Build me!\"",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "gitHead": "eee0f4c3290b2f3c3ff4a3f8b2d1e8beaf5a69b0"
+  "gitHead": "e5691fd6efb56ec6b3ec65701e84c8f835089346"
 }
